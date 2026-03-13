@@ -49,8 +49,8 @@ The project was developed as part of a **web design contest**, where it achieved
 ## Screenshots
 
 <p align="center">
-  <img src="https://i.imgur.com/mexWxeT.gif" width="300">
-  <img src="https://imgur.com/QeOnudJ.png" width="300">
+  <img src="https://i.imgur.com/mexWxeT.gif" width="600">
+  <img src="https://imgur.com/QeOnudJ.png" width="600">
 </p>
 
 More screenshots available here:
