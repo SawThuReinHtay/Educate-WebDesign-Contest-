@@ -1,8 +1,7 @@
 # NGO Education Support Website (Educate)
 
 <p align="center">
-  <blockquote class="imgur-embed-pub" lang="en" data-id="fngzwpf"><a href="https://imgur.com/fngzwpf">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
+   <img src="https://i.imgur.com/fngzwpf.png" width="300">
 </p>
 
 A website developed for a **Web Design Competition**, focusing on supporting educational development in rural areas of Myanmar.  
