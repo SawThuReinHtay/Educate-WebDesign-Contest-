@@ -1,7 +1,7 @@
 # NGO Education Support Website (Educate)
 
 <p align="center">
-  <img src="[https://imgur.com/fngzwpf](https://imgur.com/fngzwpf)" width="300">
+  <img src="https://imgur.com/fngzwpf" width="300">
 
 </p>
 
